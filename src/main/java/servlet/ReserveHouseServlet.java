@@ -18,6 +18,20 @@ public class ReserveHouseServlet extends HttpServlet {
     }
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+		//ReseaveDAOから明日の予約情報を持ってくる
+		
+		//flowbeanに入れて、次のページに持ってくる
+		
+		
+		//ReseaveDAOから明後日の予約情報を持ってくる
+		
+		//flowbeanに入れて、次のページに持ってくる
+		
+		
+		//ReseaveDAOから明々後日の予約情報を持ってくる
+		
+		//flowbeanに入れて、次のページに持ってくる
+		
 	}
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
