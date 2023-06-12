@@ -12,11 +12,11 @@
 <h2>ご相談内容をお選びください</h2>
 <div id="">
   <div class="">
-    <a href="<c:url value='' />" id="" class="button">不動産やおうちの修繕</a>
-    <a href="<c:url value='' />" id="" class="button"></a>
-    <a href="<c:url value='' />" id="" class="button"></a>
-    <a href="<c:url value='' />" id="" class="button"></a>
-    <a href="<c:url value='' />" id="" class="button"></a>
+    <a href="<c:url value='researveHouse' />" id="" class="button">不動産やおうちの修繕</a>
+    <a href="<c:url value='' />" id="" class="button">介護や終活</a>
+    <a href="<c:url value='' />" id="" class="button">相続</a>
+    <a href="<c:url value='' />" id="" class="button">車や保険</a>
+    <a href="<c:url value='' />" id="" class="button">金融</a>
   </div>
 </div>
 </body>
