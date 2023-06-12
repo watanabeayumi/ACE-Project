@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title></title>
+<link rel="stylesheet"  href="./CSS/common.css">
 </head>
 <body>
 <h1>ご相談予約・削除受付</h1>
