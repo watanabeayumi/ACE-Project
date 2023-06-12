@@ -5,8 +5,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
+
+<title>コンシェルジュ予約</title>
+
 <title></title>
-<link rel="stylesheet"  href="./CSS/common.css">
+<link rel="stylesheet"  href="../../CSS/common.css">
+
 </head>
 <body>
 <h1>ご相談予約・削除受付</h1>
